@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "carrentaldb-b2b3a",
-  "private_key_id": "f036102c1672c62a5a0a4722a0340bad7bfb62ec",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCraDyFJeMAhNbS\n1yc4kAJtWWlE7KRC3h1cgU05G6K2PyYJUhuUYqw8Xatbt1OOT7wPJnwralrGPH9n\ng/pduhTf9A9Ta6smCatf5aEpgDE80nLqQEBYXQja+LPGATXYkHV4wocuQooULAh9\nvqXZpFNdKlwZFsuW/drd6PWCl3+gta8QyQjar0eI8pPxlSkfjUi9lzbSQP3PWIzv\nNfO+HhbKwsFzlE4Y+awipxnAmvOcYLyCGuJZnG8Uhs5DQqPunAzKmOBqJgDNf9Nd\nlunA1bFWgLXJWbtDR7ozpdEO6/ooZI9+MGw1K+dKw2LHbf9c9w4Pl5dKaIOluRri\nDiYAgL8fAgMBAAECggEACEgzk/ZLg5FnmIna7R/lGa7yryHTW5I2ARZpNTHN7HvV\noyjg3e/Dtw1uCs9kP4xcn68Aal4rsXKEU92BJXk3G/9SFggRnbBIsih0GFTAaL2n\n+ll+98J+mBkZ6NeaPYEt1ayGVUUMkl8O94eNiWM2TmicZZoqiEOreuXJGGdTPFH8\nHurddey4vlUh8H7TsuHuSVmiHgl+eC1ao9zyvWtlT0Stxvg4AwJkWCRiUzczVJo+\njAdQuarAnrPOfcF/V2Pv4SPtC5VLJMCMy7eHigi+8zTUtmfRQiJ/R0BDHzHyvXcZ\nvZXHGHFC27xeQxuwhrXP72BIaSGqEc9HOiPPBVvDqQKBgQDTnkyVbU6EOJgK3juQ\nYrqRz50t240xjpYDXcj7Dzcza8O8l8kH9Hvsz3bmfA4PqxO1CpOQi/G8vCIuLcWp\n7MTl5thsX06S82lLzMZMhzACyavZtxtaD4bLjuvaPxgDmhd7j4ZtIIGkdwsoOSw3\nv9DpAhQB/mlDsl/2VAyXS0k0yQKBgQDPWwQFmIrsN2Dnk2g0YoYdeZBjfXtgpl4X\nMV83F3UhvNIMX76VQ/J2GI7qZIta6k5ujUFUNk/BhURkvoYgYq+6VT/Vjo7BQZsg\nhJzYOOtEVaaqBNyU6z9usWk9GGJFWpZsFzJVWZPrX186qlcrgjWw3YwUe++Kehhh\nMahNW/zQpwKBgHCfvAR+0x29fPWzxqGWWdMGWpGwWlm4mBAclr0/INLGFLtHUN9h\n955V3+LUvSsLkoZ0pYp1YGdg/RP0mlFQSI5OqHos0wWUdEK6LgNGo3+oU0Sglfb9\ncnDdlJpnn+Ey3jKNdS6Y8UZVcOOsYeMdvBJ2X62b9+vmf/n6S2Ut1T05AoGBALcS\nfpyKL62avz32UXxeuFZxq9+LPFD60fvcJVq4pTviP/mY1uVmlj1aNWQQ3VCpqhHF\nOTamtQgBJ39jD3ysZMY42iEsujE6QUIWk3v71QwCKyHVJQN+KAUNMgM08h6VelV4\nrYHZktWu4J8lIc1SKyE6maDEQ5uZbMjzVMroOm/lAoGAK1UyJB1wqtJFzigezEUG\nFKs4byJSNcNpdTXDl5AFNx5HpSYOeVqSbXKLoyUnid3Nc8zB8BBlfYvP/O7n7ZaI\nWNxfc0zAPhKUEkrQ/FuDOLYSHygvfhcrXYNbV5m1z6GHwyP9oIjmrdaOoDiotz0/\nHi33+mLuZSof8bOY4gi/CTc=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-aj5gg@carrentaldb-b2b3a.iam.gserviceaccount.com",
-  "client_id": "100181732880237558342",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aj5gg%40carrentaldb-b2b3a.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
